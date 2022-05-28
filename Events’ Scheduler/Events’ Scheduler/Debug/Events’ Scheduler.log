@@ -1,0 +1,20 @@
+﻿  User.cpp
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(158,21): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(280,20): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(313,21): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(132,7): warning C4101: 'done': unreferenced local variable
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(157,7): warning C4101: 'choice': unreferenced local variable
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(415,20): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(434,23): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(554,23): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(584,24): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(638,20): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(661,20): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(716,20): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(788,20): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(805,20): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(807,21): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(810,23): warning C4018: '<': signed/unsigned mismatch
+F:\COLLEGE_2\Events’ Scheduler\Events’ Scheduler\User.cpp(915,21): warning C4018: '<': signed/unsigned mismatch
+  Events’ Scheduler.vcxproj -> F:\COLLEGE_2\Events’ Scheduler\Debug\Events’ Scheduler.exe
